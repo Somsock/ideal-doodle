@@ -1,4 +1,6 @@
 # ideal-doodle //name suggested by github 
+Version 0 //still in the developing phase, focused on a working application rather than efficiency 
+
 Application for indie creators to gauge the feasibility of a book printing run 
 through taking variable inputs provided by users and calculating quantity creators must sell to earn back production costs, 
 total revenue, potential profits, and etc.
