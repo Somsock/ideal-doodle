@@ -1,4 +1,4 @@
-# ideal-doodle //name suggested by github 
+# ideal-doodle //name suggested by github to be changed, probably, I like it
 Version 0 //still in the developing phase, focused on a working application rather than efficiency 
 
 Application for indie creators to gauge the feasibility of a book printing run 
@@ -16,7 +16,7 @@ Wishlist (to be incorporated):
 - price conversion (currently usd only)
 - book weight and shipping costs (also conversion to kg) 
 
-Book: the book to be printed in the print run, stores book specific variables such as price, author, # of pages, etc.
+Book: the book to be printed in the print run, stores book specific variables such as name, price, author, # of pages, etc.
 
 Bundle: the application ask for a quantity of books and cost to produce said quantity, a bundle refers to that specific quantity of books
 
