@@ -1,4 +1,4 @@
-# ideal-doodle //name suggested by github to be changed, probably, I like it
+# ideal-doodle //name suggested by github and will change, probably, I like it
 Version 0 //still in the developing phase, focused on a working application rather than efficiency 
 
 Application for indie creators to gauge the feasibility of a book printing run 
