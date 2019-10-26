@@ -59,6 +59,5 @@ public class Bundle{
         String str1 = String.format("\nBundle Quantity: %d\nBundle Cost: $%.2f\nUnit Price: $%.2f", quantity, cost, unitPrice);
         String str2 = String.format("\nBreakeven Quantity: %d\nPotential Profit: $%.2f\nTotal Revenue: $%.2f\n", beQuantity, profit, totalRevenue);
         return str1 + str2;
-        //return "\nBundle Quantity: " + quantity + "\nBundle Cost: $" + cost + "\nUnit Price: $" + unitPrice + "\nBreakeven Quantity: " + beQuantity;
     }
 }
