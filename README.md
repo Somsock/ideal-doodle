@@ -1,23 +1,26 @@
-# ideal-doodle //name suggested by github and will change, probably, I like it
-Version 0 //still in the developing phase, focused on a working application rather than efficiency 
+# ideal-doodle 
+Version 0 (beta) - in development towards a working application.
 
-Application for indie creators to gauge the feasibility of a book printing run 
-through taking variable inputs provided by users and calculating quantity creators must sell to earn back production costs, 
-total revenue, potential profits, and etc.
+Purpose: Help assist indie creators who are interested in understanding the cost feasibility of a self-sourced book printing project (rather than print-on-demand services). Application calculates expected quantity/units creators will need to sell to earn back production costs, or breakeven. 
 
-Currently incorporated: breakeven quantity, potential profits, total revenue, and unit price (per book)
+Users should provide inputs (list inputs: unit price, printer quotes, print volume). 
 
-Wishlist (to be incorporated): 
-- input validation that takes into account "cancel" and maybe be a little sassy when the user input negative numbers or zero for book quantity and costs
-- web application and .exe 
-- marginal cost and marginal benifit 
-- taxes and other fees for users to understand how much money they will actually keep after taxes/fees
-- bundle table for comparision between different book quantity bundles (also a back up system for if user wants to revisit previous bundles/tables for comparision) 
+This is for creators who are interested in: 
+- low-volume book-print runs (1000 units for fewer) 
+- using digital printers (not off-set printers)
+- Self-sourcing supply chain (not print-on-demand services).
+
+This version currently incorporates: breakeven quantity, potential profits, total revenue. 
+
+Tutorial for how to use this application here.
+
+Next version wishlist: 
+- input validation that takes into account "cancel" (currently only validate whether or not the input is an integer or a double) and maybe be a little sassy when the user input negative numbers or zero for book quantity and costs
+- web application and .exe
+- marginal cost and marginal benefit
+- taxes and other fees for users to understand how much money they will actually keep after taxes and fees
+- a table for comparing different book quantity bundles 
+- a back up system for if user wants to revisit previous tables or bundles
 - price conversion (currently usd only)
-- book weight and shipping costs (also conversion to kg) 
+- book weight and shipping costs (also conversion to kg)
 
-Book: the book to be printed in the print run, stores book specific variables such as name, price, author, # of pages, etc.
-
-Bundle: the application ask for a quantity of books and cost to produce said quantity, a bundle refers to that specific quantity of books
-
-BundleTable: a table displaying the information of different bundles for comparision purposes to determine which bundle is most feasible, if any 
