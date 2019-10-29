@@ -1,4 +1,4 @@
-# ideal-doodle 
+# self-source-printing
 Version 0 (beta) - in development towards a working application.
 
 Purpose: Help assist indie creators who are interested in understanding the cost feasibility of a self-sourced book printing project (rather than print-on-demand services). Application calculates expected quantity/units creators will need to sell to earn back production costs, or breakeven. 
