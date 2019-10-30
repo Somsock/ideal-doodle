@@ -95,7 +95,7 @@ public class Book{
     }
     /**
      * This method is use to get the number of pages of the book
-     *@return the number of pages of the book
+     * @return the number of pages of the book
      */
     public int getNumPages(){
         return this.numPages;
