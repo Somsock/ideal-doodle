@@ -24,3 +24,4 @@ Next version wishlist (To-Do List):
 - price conversion (currently usd only)
 - book weight and shipping costs (also conversion to kg)
 - tutorial (once the application is usable)
+- a way to export the data so users can save the data
