@@ -108,3 +108,4 @@ public class Book{
          String string = String.format("Title: %s\nAuthor: %s\nPrice: %f\nNumber of Pages: %d\n", name, author, price, numPages);
          return string;
     }
+}
